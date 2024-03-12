@@ -9,8 +9,6 @@ PHate is a Persian multi-label hate speech dataset curated for hate speech detec
 ## Files
 We partitioned the dataset into three segments: training, validation, and test, with proportions of 50%, 40%, and 10% respectively.
 - `train_simple.csv`: The training segment of PHate dataset contains tweet IDs, tweet text, and annotated labels.
-- 
--`val_simple.csv`: The validaiton segment of PHate dataset contains tweet IDs, tweet text, and annotated labels.
-
--`test_simple.csv`: The test segment of PHate dataset contains tweet IDs, tweet text, and annotated labels.
+- `val_simple.csv`: The validaiton segment of PHate dataset contains tweet IDs, tweet text, and annotated labels.
+- `test_simple.csv`: The test segment of PHate dataset contains tweet IDs, tweet text, and annotated labels.
 
