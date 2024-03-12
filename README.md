@@ -11,4 +11,5 @@ We partitioned the dataset into three segments: training, validation, and test, 
 - `train_simple.csv`: The training segment of PHate dataset contains tweet IDs, tweet text, and annotated labels.
 - `val_simple.csv`: The validaiton segment of PHate dataset contains tweet IDs, tweet text, and annotated labels.
 - `test_simple.csv`: The test segment of PHate dataset contains tweet IDs, tweet text, and annotated labels.
+- `Dataset_with_span_and_target.csv`: contains targets and annotated spans of hate, encompassing all annotations, even in cases of inconsistency among annotators.
 
